@@ -1,0 +1,258 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Photosmash Galleries\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2015-09-10 19:48+0100\n"
+"PO-Revision-Date: 2015-09-10 19:48+0100\n"
+"Last-Translator: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language-Team: Ciprian Popescu <getbutterfly@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;_\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../admin/bwbps-admin.php:715 ../admin/bwbps-admin.php:2451
+#: ../admin/bwbps-fieldeditor.php:463 ../admin/bwbps-formeditor.php:223
+#: ../admin/bwbps-layouts.php:172
+msgid "Edit"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:716 ../admin/bwbps-admin.php:1234
+msgid "Mass Edit"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:717 ../admin/bwbps-fieldeditor.php:464
+#: ../admin/bwbps-formeditor.php:228
+msgid "Delete"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:1023 ../admin/bwbps-admin.php:1357
+#: ../admin/bwbps-admin.php:1824
+msgid "Image moderation"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:1158 ../admin/bwbps-admin.php:1445
+msgid "Save Gallery"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:1233
+msgid "Single Edit"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:1796
+msgid "WordPress upload"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:1805
+msgid "Default form for new galleries"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:1812
+msgid "Minimum role to upload photos"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:2245
+msgid "Update Defaults"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:2245
+msgid "Reset Defaults"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:2451
+msgid "Moderation/New"
+msgstr ""
+
+#: ../admin/bwbps-admin.php:2451
+msgid "All Images"
+msgstr ""
+
+#: ../admin/bwbps-fieldeditor.php:453 ../admin/bwbps-fieldeditor.php:585
+msgid "Save Field"
+msgstr ""
+
+#: ../admin/bwbps-fieldeditor.php:457 ../admin/bwbps-fieldeditor.php:589
+msgid "Generate Table"
+msgstr ""
+
+#: ../admin/bwbps-fieldeditor.php:465
+msgid "Complete Delete"
+msgstr ""
+
+#: ../admin/bwbps-formeditor.php:252
+msgid "Save Form"
+msgstr ""
+
+#: ../admin/bwbps-formeditor.php:262
+msgid "Show Obsolete"
+msgstr ""
+
+#: ../admin/bwbps-importer.php:291
+msgid "Fetch Images"
+msgstr ""
+
+#: ../admin/bwbps-importer.php:306
+msgid "Add Images"
+msgstr ""
+
+#: ../admin/bwbps-info.php:477
+msgid "Not set"
+msgstr ""
+
+#: ../admin/bwbps-info.php:479 ../admin/bwbps-info.php:482
+msgid "On"
+msgstr ""
+
+#: ../admin/bwbps-info.php:480 ../admin/bwbps-info.php:483
+msgid "Off"
+msgstr ""
+
+#: ../admin/bwbps-info.php:486 ../admin/bwbps-info.php:489
+#: ../admin/bwbps-info.php:492 ../admin/bwbps-info.php:495
+#: ../admin/bwbps-info.php:498
+msgid "N/A"
+msgstr ""
+
+#: ../admin/bwbps-info.php:497
+msgid " MByte"
+msgstr ""
+
+#: ../admin/bwbps-info.php:500 ../admin/bwbps-info.php:503
+#: ../admin/bwbps-info.php:506
+msgid "Yes"
+msgstr ""
+
+#: ../admin/bwbps-info.php:501 ../admin/bwbps-info.php:504
+#: ../admin/bwbps-info.php:507
+msgid "No"
+msgstr ""
+
+#: ../admin/bwbps-info.php:511
+msgid "Operating System"
+msgstr ""
+
+#: ../admin/bwbps-info.php:512
+msgid "Server"
+msgstr ""
+
+#: ../admin/bwbps-info.php:513
+msgid "Memory usage"
+msgstr ""
+
+#: ../admin/bwbps-info.php:514
+msgid "MYSQL Version"
+msgstr ""
+
+#: ../admin/bwbps-info.php:515
+msgid "SQL Mode"
+msgstr ""
+
+#: ../admin/bwbps-info.php:516
+msgid "PHP Version"
+msgstr ""
+
+#: ../admin/bwbps-info.php:517
+msgid "PHP Safe Mode"
+msgstr ""
+
+#: ../admin/bwbps-info.php:518
+msgid "PHP Allow URL fopen"
+msgstr ""
+
+#: ../admin/bwbps-info.php:519
+msgid "PHP Memory Limit"
+msgstr ""
+
+#: ../admin/bwbps-info.php:520
+msgid "PHP Max Upload Size"
+msgstr ""
+
+#: ../admin/bwbps-info.php:521
+msgid "PHP Max Post Size"
+msgstr ""
+
+#: ../admin/bwbps-info.php:522
+msgid "PHP Max Script Execute Time"
+msgstr ""
+
+#: ../admin/bwbps-info.php:523
+msgid "PHP Exif support"
+msgstr ""
+
+#: ../admin/bwbps-info.php:524
+msgid "PHP IPTC support"
+msgstr ""
+
+#: ../admin/bwbps-info.php:525
+msgid "PHP XML support"
+msgstr ""
+
+#: ../admin/bwbps-layouts.php:168 ../admin/bwbps-layouts.php:305
+msgid "Save Layout"
+msgstr ""
+
+#: ../admin/bwbps-layouts.php:172
+msgid "Delete Layout"
+msgstr ""
+
+#: ../ajax_medialoader.php:43
+msgid "You are not allowed to access this page."
+msgstr ""
+
+#: ../bwb-photosmash.php:186 ../bwb-photosmash.php:425
+msgid "Settings"
+msgstr ""
+
+#: ../bwb-photosmash.php:189
+msgid "Tutorials"
+msgstr ""
+
+#: ../bwb-photosmash.php:426
+msgid "Gallery Settings"
+msgstr ""
+
+#: ../bwb-photosmash.php:427
+msgid "Photo Manager"
+msgstr ""
+
+#: ../bwb-photosmash.php:428
+msgid "Image Importer"
+msgstr ""
+
+#: ../bwb-photosmash.php:428
+msgid "Import Photos"
+msgstr ""
+
+#: ../bwb-photosmash.php:429
+msgid "PS Form Editor"
+msgstr ""
+
+#: ../bwb-photosmash.php:429
+msgid "Custom Forms"
+msgstr ""
+
+#: ../bwb-photosmash.php:430
+msgid "PS Field Editor"
+msgstr ""
+
+#: ../bwb-photosmash.php:430
+msgid "Custom Fields"
+msgstr ""
+
+#: ../bwb-photosmash.php:431
+msgid "PS Layouts Editor"
+msgstr ""
+
+#: ../bwb-photosmash.php:431
+msgid "Layouts Editor"
+msgstr ""
+
+#: ../bwb-photosmash.php:432
+msgid "Plugin Info"
+msgstr ""
